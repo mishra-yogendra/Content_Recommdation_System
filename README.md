@@ -39,7 +39,7 @@ A sophisticated AI-powered content recommendation system that provides personali
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/mishra-yogendra/Content_Recommdation_System
 cd ai-content-recommender
 ```
 
